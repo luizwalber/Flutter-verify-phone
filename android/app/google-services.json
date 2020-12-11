@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "881675306668",
+    "firebase_url": "https://testes-b9de6.firebaseio.com",
+    "project_id": "testes-b9de6",
+    "storage_bucket": "testes-b9de6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881675306668:android:aaae0b9b28825d0d46c109",
+        "android_client_info": {
+          "package_name": "com.example.clean.instagram.photos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881675306668-s62fal5kl8kjiab5g5671qlgv0liginb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clean.instagram.photos",
+            "certificate_hash": "1a3e2d66913e79b609023fd81a3a662e3f7f540d"
+          }
+        },
+        {
+          "client_id": "881675306668-5stnndc9pn77u8037qj1s7r5kif9qes7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWpbC9nb8-hj87k_6EedM8WQm9ytoiTQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881675306668-5stnndc9pn77u8037qj1s7r5kif9qes7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
